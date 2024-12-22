@@ -1,0 +1,9 @@
+gradio==4.25.0
+PyMuPDF==1.24.9
+pdf2image==1.17.0
+pymilvus==2.4.9
+colpali_engine==0.3.4
+tqdm==4.66.5
+pillow==10.4.0
+spaces==0.30.4
+google-generativeai==0.8.3
